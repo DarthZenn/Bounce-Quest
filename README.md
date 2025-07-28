@@ -1,0 +1,1 @@
+Bounce Quest is a Hyper Casual Mobile game with simple interface and eazy but addicting gameplay mechanic. Tap on the screen to make the ball jumps up, try to climb as high as you by landing on the moving platform above. Each time you land on platform, you gained 100 points.
